@@ -1,0 +1,35 @@
+14:32:46	 From  Clare : yes
+14:35:02	 From  Brendan : should we know the code for towers of Hanoi?
+14:40:40	 From  Rodney : Are you going to upload this Pyzo file to the 110 website?
+14:43:00	 From  Sam : Is there a difference between using as the base case the empty tree and saying that the leaves are empty?
+14:43:07	 From  Mehak : so your adding all of the leaves, not the intermediate nodes?
+14:44:26	 From  Sommer : does the order of the recursive calls matter? Can you call it on the right first and then the left? 
+14:49:45	 From  Nana : For the phonebook, could I use a for each loop instead of a for range loop?
+14:50:38	 From  Nana : Thanks!
+14:54:28	 From  Malika : Could I use recursion for AuthorMap?
+14:56:03	 From  Ed : yep
+15:00:22	 From  Arman : what is str.digits?
+15:01:21	 From  Margaret Reid-Miller   to   Kelly Rivers(Privately) : We only hear the music when you speak
+15:08:31	 From  Ed : how would you know if it were O(n**.5)?
+15:10:03	 From  Clarissa : What are some good resources to practice big-O calculations?
+15:10:42	 From  Matilda   to   Kelly Rivers(Privately) : can you put the kahoot questions for big O on canvas/website
+15:11:03	 From  Olive : Can you post those solutions
+15:11:09	 From  Olive : for the weekly practice
+15:11:39	 From  Soren : yes
+15:11:46	 From  Yvonne : no
+15:11:47	 From  Shivani : yes
+15:11:49	 From  Aahil : no
+15:11:49	 From  Sanjay : no
+15:11:50	 From  Jaheim : no
+15:11:52	 From  Jakub : no
+15:11:54	 From  Sam : no
+15:11:54	 From  Nasir : no
+15:15:44	 From  Sommer : is there a case where you would have more than one swap? 
+15:20:28	 From  Yvonne : Will we be tested on scenarios where we have to decide which sorting algorism would be the best?
+15:20:41	 From  Ritik : when you have an odd number of elements in the list, do you always make the second list longer? or does it not matter?
+15:22:05	 From  Olive : how many times was merge sort called
+15:23:11	 From  Ioan : Thank you!
+15:23:13	 From  Malika : Why do we count 2 for a merge split?
+15:24:58	 From  Sommer : when you are writing code on canvas. is there a certain number of spaces we should use for indenting, since tab doesn't work? 
+15:24:59	 From  Malika : Oh, ok, thank you!
+15:25:05	 From  Clare : Thanks!

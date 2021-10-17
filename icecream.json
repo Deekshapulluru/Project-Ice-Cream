@@ -1,0 +1,9 @@
+{
+  "vanilla" : 10,
+  "chocolate" : {
+		  "chocolate" : 15,
+		  "chocolate chip" : 7,
+		  "mint chocolate chip" : 5
+		},
+  "other" : [ "strawberry", "matcha", "coffee" ]
+}
