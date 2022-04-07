@@ -7,12 +7,12 @@
 # #1 Category, #2 Category, #3 Category
 
 import csv
-f = open("all-icecream.csv", "r")
+f = open("flavors.csv", "r")
 orig = list(csv.reader(f))
 data = []
 test = []
 for line in orig:
-    if line[0] != "Semester": # skip header
+    if line[0] != "semester": # skip header
         # only include coded classes
         categories = line[7:10]
         if line[0] == "S21":
@@ -50,6 +50,7 @@ def getClassProb(data, flavor):
             count += 1
     return count / len(data)
 
+
 # Probability that 1st/2nd favorite is X given that 3rd favorite is C
 def getCondProb(data, priorFlavor, thirdFlavor, priorIndex):
     count = 0
@@ -79,7 +80,7 @@ def predict(data, first, second, showWork=False):
         flavorProbs[flavor] = overallProb
     return bestGuess(flavorProbs) # find best value
 
-print("PREDICTION:", predict(data, "chocolate", "vanilla", showWork=True))
+print("PREDICTION:", predict(data, "vanilla", "chocolate", showWork=True))
 
 ### TEST ###
 

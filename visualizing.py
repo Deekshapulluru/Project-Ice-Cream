@@ -5,20 +5,20 @@ def readData(filename):
     data = list(csv.reader(f))
     return data
 
-data = readData("all-icecream.csv")
+data = readData("flavors.csv")
 
 #
 
 def getFlavorCounts(data, flavor):
     counts = []
-    start = data[0].index("#1 category")
+    start = data[0].index("#1 Category")
     for i in range(1, len(data)):
         categories = data[i][start:start+3]
         count = categories.count(flavor)
         counts.append(count)
     return counts
 
-print("Chocolate:", getFlavorCounts(data, "chocolate"))
+print("Chocolate:", getFlavorCounts(data, "chocolate "))
 
 #
 
@@ -86,7 +86,7 @@ def combineUncommon(counts, cutoff):
             newCounts[flavor] = counts[flavor]
     return newCounts
 
-counts = combineUncommon(getIceCreamCounts(data), 15)
+counts = combineUncommon(getIceCreamCounts(data), 4)
 
 flavors = []
 flavorCounts = []

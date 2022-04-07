@@ -1,0 +1,61 @@
+semester,#1 Orig,#2 Orig,#3 Orig,#1 cleaned,#2 cleaned,#3 cleaned,#1 Category,#2 Category,#3 Category
+S21,Chocolate chip,Chocolate,Vanilla,chocolate chip,chocolate,vanilla,chocolate ,chocolate ,vanilla 
+S21,Chocolate,Vennila,Butterscotch,chocolate,vanilla,butterscotch,chocolate ,vanilla ,other
+S21,Strawberry,Venilla,Chocolate,strawberry,vanilla,chocolate,fruit,vanilla ,chocolate 
+S21,Vennila,Butterscotch,Chocolate,vanilla,butterscotch,chocolate,vanilla ,other,chocolate 
+S21,Venila,Chocolate,Strawberry,vanilla,chocolate,strawberry,vanilla ,chocolate ,fruit
+S21,Strawberry,Vennila,Chocolate,strawberry,vanilla,chocolate,fruit,vanilla ,chocolate 
+S21,Vennila,Strawberry,Chocolate,vanilla,strawberry,chocolate,vanilla ,fruit,chocolate 
+S21,Peach,Raspberry,Cherry,peach,raspberry,cherry,fruit,fruit,fruit
+S21,Vanilla,Cookies N'Cream,Dark choco chips,vanilla,cookies n cream,dark choco chips,vanilla ,cookie,chocolate 
+S21,Mint chocolate chip,Chocolate chip cookie dough,Buttered pecan,mint chocolate chip,chocolate chip cookie dough,buttered pecan,chocolate ,chocolate ,other
+S21,Cookie Dough,Strawberry,Moose Tracks,cookie dough,strawberry,moose tracks,cookie,fruit,other
+S21,Butter pecan,Rocky road,Cookies N'Cream,butter pecan,rocky road,cookies n cream,other,chocolate ,cookie
+S21,Coffee,Cake batter,Pistachio,coffee,cake batter,pistachio,coffee/tea,vanilla ,other
+S21,Chocolate,Butter pecan,Neapolitan,chocolate,buttered pecan,neapolitan,chocolate ,other,other
+S21,Butterscotch,Strawberry,Venila,butterscotch,strawberry,vanilla,other,fruit,vanilla 
+,Chocolate,Venilla,Strawberry,chocolate,vanilla,strawberry,chocolate ,vanilla ,fruit
+,Chocolate,Venila,Raspberry,chocolate,vanilla,raspberry,chocolate ,vanilla ,fruit
+,Strawberry,Peach,Cookies N' Cream,strawberry,peach,cookies n cream,fruit,fruit,cookie
+,Chocolate,Strawberry,Chocolate chip cookie dough,chocolate,strawberry,chocolate chip cookie dough,chocolate ,fruit,chocolate 
+,Chocolate,Venilla,Strawberry,chocolate,vanilla,strawberry,chocolate ,vanilla ,fruit
+,Cherry,Vanilla,Rocky road,cherry,vanilla,rocky road,fruit,vanilla ,chocolate 
+,Dark choco chips,Mint chocolate chip,Cake batter,dark choco chips,mint chocolate chip,cake batter,chocolate ,chocolate ,vanilla 
+,Buttered pecan,Cookie Dough,Butterscotch,buttered pecan,cookie dough,butterscotch,other,cookie,other
+,Moose tracks,Butter pecan,Chocolate,moose tracks,buttered pecan,chocolate,other,other,chocolate 
+,Cookies N' Cream,Coffee,Buttered pecan,cookies n cream,coffee,buttered pecan,cookie,coffee/tea,other
+,Pistachio,Chocolate,Venilla,pistachio,chocolate,vanilla,other,chocolate ,vanilla 
+,Neapolitan,Strawberry,Raspberry,neapolitan,strawberry,raspberry,other,fruit,fruit
+,Vanilla,Chocolate,Butter pecan,vanilla,chocolate,buttered pecan,vanilla ,chocolate ,other
+,Strawberry,Neapolitan,Chocolate chip,strawberry,neapolitan,chocolate chip,fruit,other,chocolate 
+,French vanilla,Cookies and cream,Vanilla fudge ripple,french vanilla,cookies and cream,vanilla fudge ripple,vanilla ,cookie,vanilla 
+,Pranline pecan,Cherry,Chocolate almond,praline pecan,cherry,chocolate almond,other,fruit,chocolate 
+,Coffee,Rocky road,Chocolate marshmallow,coffee,rocky road,chocolate marshmallow,coffee/tea,chocolate ,chocolate 
+,Almond joy,Black raspberry,Bubble gum,almond joy,black raspberry,bubble gum,chocolate ,fruit,other
+,Butter pecan,Cherry vanilla,Chocolate chip,buttered pecan,cherry vanilla,chocolate chip,other,vanilla ,chocolate 
+,Chocolate peanut butter,Coconut,Coffee,chocolate peanut butter,coconut,coffee,chocolate ,other,coffee/tea
+,Coffee oreo,Cookie dough,Cotton candy,coffee oreo,cookie dough,cotton candy,cookie,cookie,other
+,Extreme chocolate,Grape-nut,Graham central station,extreme chocolate,grape-nut,graham central station,chocolate ,fruit,other
+,Heavenly hash,M&M,Mango,heavenly hash,m&m,mango,chocolate ,chocolate ,fruit
+,Maple walnut,Mint oreo,Moose tracks,maple walnut,mint oreo,moose tracks,other,cookie,other
+,Strawberry,Orange pineapple,Oreo,strawberry,orange pineapple,oreo,fruit,fruit,cookie
+,Peanut butter,Pistachio,Rum raisin,peanut butter,pistachio,rum raisin,other,other,other
+,Cake batter,Salted caramel truffle,Grape-nut,cake batter,salted caramel truffle,grape-nut,vanilla ,vanilla ,fruit
+,Vanilla,Chocolate,Mocha,vanilla,chocolate,mocha,vanilla ,chocolate ,coffee/tea
+,Coconut,Vanilla yogurt,Orange sherbert,coconut,vanilla yogurt,orange sherbert,other,vanilla ,fruit
+,Acai berry,Apple cinnamon,Banana chocolate chip,acai berry,apple cinnamon,banana chocolate chip,fruit,fruit,fruit
+,Black cherry,Black raspberry,Black walnut,black cherry,black raspberry,black walnut,fruit,fruit,other
+,Blueberry brown sugar,Blueberry pie,Bubblegum,blueberry brown sugar,blueberry pie,bubblegum,fruit,fruit,other
+,Butter brickle,Butter pecan,Butterfinger,butter brickle,buttered pecan,butterfinger,other,other,other
+,Caramel apple crunch,Carrot cake,Chiefs chip,caramel apple crunch,carrot cake,chiefs chip,fruit,other,cookie
+,Chocolate cherry,Chocolate chip cookie,Chocolate cream & cream,chocolate cherry,chocolate chip cookie,chocolate cream & cream,chocolate ,chocolate ,chocolate 
+,Cinnamon turtle,Cinnamon,Chocolate turtle,cinnamon turtle,cinnamon,chocolate turtle,other,other,chocolate 
+,Chocolate speed bumps,Chocolate poppers,Chocolate peanut butter,chocolate speed bumps,chocolate poppers,chocolate peanut butter,chocolate ,chocolate ,chocolate 
+,Coconut,Coconut almond delight,Coconut ginger,coconut,coconut almond delight,coconut ginger,other,other,other
+,French toast,German chocolate,Grandma's cookies,french toast,german chocolate,grandma's cookies,other,chocolate ,cookie
+,Heath bar,Heath bar cheesecake,Honey vanilla,heath bar,heath bar cheesecake,honey vanilla,chocolate ,chocolate ,vanilla 
+,M&M,Mango,Maple pecan,m&m,mango,maple pecan,chocolate ,fruit,other
+,Oreo mint,Peanut butter chip,Peppermint,oreo mint,peanut butter chip,peppermint,cookie,cookie,other
+,Red velvet,Snickers,Strawberry,red velvet,snickers,strawberry,other,chocolate ,fruit
+,Watermelon man,White chocolate macadamia nut,White chocolate turtle,watermelon man,white chocolate macadamia nut,white chocolate turtle,fruit,chocolate ,chocolate 
+,Wild cherry,Wintergreen,Wormy apple,wild cherry,wintergreen,wormy apple,fruit,other,fruit
